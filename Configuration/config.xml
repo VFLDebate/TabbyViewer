@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Config>
-    <Url>https://tab.vfldebate.live/api/v1/</Url>
-    <Token>c1a1a07c6b3687bd2babb5fa228dbbcdc115280d</Token>
-    <TournamentSlug>bp88team</TournamentSlug>
-    <FormsCSVPath>/Users/hexabinary/Desktop/test2.csv</FormsCSVPath>
-</Config>
